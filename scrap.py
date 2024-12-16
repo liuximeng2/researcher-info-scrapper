@@ -105,8 +105,8 @@ def search(target_urls, query):
         # Parameters
         params = {
             "q": query,            # Search query
-            "key": 'AIzaSyA7ikrVHWiCSKXfFrna2hzjuxB1-zuxIm4',        # Your API key
-            "cx": 'e7e612cf86cea4573',              # Custom search engine ID
+            "key": os.getenv("GOOGLE_API_KEY"),        # Your API key
+            "cx": os.getenv("GOOGLE_SEARCH_ID"),              # Your Custom search engine ID
             "num": 1    # Number of results to return
         }
         
