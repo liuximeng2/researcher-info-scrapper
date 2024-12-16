@@ -1,0 +1,15 @@
+{
+    "first_name": "Michal",
+    "last_name": "Arbilly",
+    "emory_email": "michal.arbilly@emory.edu",
+    "title": "Assistant Teaching Professor",
+    "school": "Emory University",
+    "department": "Departments of Biology and Quantitative Theory and Methods",
+    "research_focus": [
+        "Animal behavior",
+        "cognition",
+        "evolution"
+    ],
+    "research_focus_description": "Dr. Arbilly's research interests lie at the intersection of animal behavior, cognition, and evolution. She is particularly interested in how group-living has shaped the evolution of learning and decision-making processes, often employing computer models to investigate these complexities.",
+    "link_to_bio": []
+}

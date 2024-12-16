@@ -1,0 +1,18 @@
+{
+    "first_name": "Daniel",
+    "last_name": "Drane",
+    "emory_email": "ddrane@emory.edu",
+    "title": "Professor",
+    "school": "Emory University",
+    "department": "Department of Neurology",
+    "research_focus": [
+        "Semantic memory",
+        "Object recognition",
+        "Language functioning",
+        "Selective laser amygdalohippocampotomy",
+        "Impact of antiepileptic drugs",
+        "Acute seizure activity"
+    ],
+    "research_focus_description": "My primary research interest involves examining semantic memory, object recognition, and aspects of language functioning using a combination of neuropsychological testing, structural and functioning neuroimaging, and electrocorticography. I am also investigating the use of selective laser amygdalohippocampotomy as a safer alternative to standard open resections for the control of seizures. Secondary interests include exploring the impact of antiepileptic drugs (including in utero exposure), acute seizure activity.",
+    "link_to_bio": []
+}

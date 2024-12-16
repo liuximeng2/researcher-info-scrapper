@@ -1,0 +1,15 @@
+{
+    "first_name": "George",
+    "last_name": "Beck Jr",
+    "emory_email": "gbeck2@emory.edu",
+    "title": "Associate Professor",
+    "school": "Emory University School of Medicine",
+    "department": "Department of Medicine, Division of Endocrinology, Metabolism and Lipids",
+    "research_focus": [
+        "Dietary inorganic phosphate",
+        "bone disease",
+        "nanoparticles"
+    ],
+    "research_focus_description": "Dr. Beck focuses on understanding the role of dietary inorganic phosphate in regulating cell behavior, exploring the biological actions and targeting of nanoparticles for bone disease applications, and examining the impact of diabetes on marrow stem cells and bone quality.",
+    "link_to_bio": []
+}

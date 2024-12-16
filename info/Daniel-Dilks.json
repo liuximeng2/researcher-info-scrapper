@@ -1,0 +1,16 @@
+{
+    "first_name": "Daniel",
+    "last_name": "Dilks",
+    "emory_email": "dilks@emory.edu",
+    "title": "Associate Professor",
+    "school": "Emory University",
+    "department": "Department of Psychology",
+    "research_focus": [
+        "Functional organization of human visual cortex",
+        "Cortical plasticity in adult human vision"
+    ],
+    "research_focus_description": "His research focuses on how the visual cortex is functionally organized, how this organization develops, and how it changes in adulthood. He utilizes methods like psychophysics, fMRI, and transcranial magnetic stimulation.",
+    "link_to_bio": [
+        "dilkslab"
+    ]
+}

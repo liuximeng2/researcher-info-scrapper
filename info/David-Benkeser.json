@@ -1,0 +1,16 @@
+{
+    "first_name": "David",
+    "last_name": "Benkeser",
+    "emory_email": "benkeser@emory.edu",
+    "title": "Associate Professor",
+    "school": "Rollins School of Public Health",
+    "department": "Biostatistics and Bioinformatics",
+    "research_focus": [
+        "Machine learning in causal inference",
+        "vaccine statistics"
+    ],
+    "research_focus_description": "David Benkeser's research focuses on the theory and applications of machine learning in causal inference, particularly in areas such as vaccine statistics, competing risks, and complex longitudinal data. His collaborative research includes work on preventive vaccines, tuberculosis, and HIV prevention.",
+    "link_to_bio": [
+        "Return to Faculty Listing"
+    ]
+}

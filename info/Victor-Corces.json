@@ -1,0 +1,18 @@
+{
+    "first_name": "Victor",
+    "last_name": "Corces",
+    "emory_email": "vcorces@emory.edu",
+    "title": "Professor",
+    "school": "Emory University School of Medicine",
+    "department": "Department of Human Genetics",
+    "research_focus": [
+        "Cell and Molecular Biology",
+        "Three-dimensional organization of the chromatin",
+        "CTCF and cohesin proteins"
+    ],
+    "research_focus_description": "The cancer-related research in Dr. Corces's laboratory studies mechanisms by which the three-dimensional organization of the chromatin is established and maintained. The transcriptional repressor CTCF and cohesin proteins involved in these processes are often mutated in leukemia and other cancers.",
+    "link_to_bio": [
+        "Emory University School of Medicine Faculty Profile",
+        "Corces Lab"
+    ]
+}

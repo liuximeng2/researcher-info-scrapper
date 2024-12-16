@@ -1,0 +1,15 @@
+{
+    "first_name": "Guy",
+    "last_name": "Benian",
+    "emory_email": "pathgb@emory.edu",
+    "title": "Professor",
+    "school": "Emory University School of Medicine",
+    "department": "Department of Pathology and Laboratory Medicine",
+    "research_focus": [
+        "Myofibril assembly",
+        "maintenance",
+        "giant multi-domain proteins"
+    ],
+    "research_focus_description": "Focuses on the functions and structures of giant multi-domain proteins and the mechanisms by which myofibrils are attached to the muscle cell membrane in Caenorhabditis elegans, transmitting force.",
+    "link_to_bio": []
+}

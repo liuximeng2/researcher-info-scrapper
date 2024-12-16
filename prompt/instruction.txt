@@ -1,0 +1,12 @@
+You will be provided with all the texts scraped from one or more websites of a researcher. Many noisy will the provided sicne the website may contain many other information other than the researcher's information. Try to select infomation close or after to the where the researcher's name appears.
+Your task to to filter out the below contents from the scraped texts:
+
+    first_name: researcher's first name
+    last_name: researcher's last name
+    emory_email: researcher's email
+    title: researcher's title
+    school: research's school of affiliation
+    department: researcher's department of affiliation
+    research_focus: summarize the research focus in a few words
+    research_focus_description: summatize the researcher's research focus in one to two sentences
+    link_to_bio: potential link to the researcher's bio
