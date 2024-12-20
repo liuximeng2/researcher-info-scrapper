@@ -51,4 +51,4 @@ This repository contains code and resources for scraping information about resea
       A local CV model (stored in `model/`) filters out non-headshot images. This removes logos, icons, and irrelevant images, leaving only what appears to be a researcher headshot.
 
 5. **Final Result:**
-   - The final scraped results are correspondingly saved in `info\` and `images\` folders
+   - The final scraped results are correspondingly saved in `info\` and `images\` folders. The merged excel file is saved in `complete list.xlsx`.
