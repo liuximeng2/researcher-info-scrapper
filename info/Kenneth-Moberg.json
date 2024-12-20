@@ -1,0 +1,15 @@
+{
+    "first_name": "Kenneth",
+    "last_name": "Moberg",
+    "emory_email": "kmoberg@emory.edu",
+    "title": "Professor",
+    "school": "Emory University School of Medicine",
+    "department": "Department of Cell Biology",
+    "research_focus": [
+        "Human Health"
+    ],
+    "research_focus_description": "Dr. Moberg's research focuses on cancer cell biology and development of the central nervous system, using Drosophila melanogaster to study growth regulatory proteins and their roles in epithelial cell growth, morphogenesis, motility, and neurological disorders.",
+    "link_to_bio": [
+        "Emory University School of Medicine Faculty Profile"
+    ]
+}

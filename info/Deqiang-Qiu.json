@@ -1,0 +1,16 @@
+{
+    "first_name": "Deqiang",
+    "last_name": "Qiu",
+    "emory_email": "deqiang.qiu@emory.edu",
+    "title": "MRI Program Director",
+    "school": "School of Medicine",
+    "department": "Center for Systems Imaging Core",
+    "research_focus": [
+        "Human Health",
+        "AI Ethics"
+    ],
+    "research_focus_description": "Dr. Qiu leads research on computational neuroimaging, focusing on developing advanced MRI techniques and image analysis tools to improve diagnosis and management of neurological diseases like cerebrovascular disease, epilepsy, and Alzheimer's. His work involves machine learning applications for image analysis and software development for data analysis.",
+    "link_to_bio": [
+        "https://www.emory.edu/center-for-systems-imaging-core"
+    ]
+}

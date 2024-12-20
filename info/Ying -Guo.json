@@ -1,0 +1,17 @@
+{
+    "first_name": "Ying",
+    "last_name": "Guo",
+    "emory_email": "yguo2@emory.edu",
+    "title": "Professor",
+    "school": "Rollins School of Public Health",
+    "department": "Biostatistics and Bioinformatics",
+    "research_focus": [
+        "Human Health",
+        "AI Ethics",
+        "Foundations of AI"
+    ],
+    "research_focus_description": "Ying Guo specializes in the application of biostatistics and bioinformatics to understand mental health and neuroscience. Her work also encompasses statistical methods for imaging, with a focus on functional neuroimaging and brain connectivity, contributing to both human health and AI ethics.",
+    "link_to_bio": [
+        "https://www.yingguo.us"
+    ]
+}

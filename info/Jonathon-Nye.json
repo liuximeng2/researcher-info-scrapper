@@ -1,0 +1,15 @@
+{
+    "first_name": "Jonathon",
+    "last_name": "Nye",
+    "emory_email": "nyej@musc.edu",
+    "title": "Professor",
+    "school": "Medical University of South Carolina",
+    "department": "Radiology and Radiological Science",
+    "research_focus": [
+        "Human Health"
+    ],
+    "research_focus_description": "Jonathon Nye's academic focus includes pharmacokinetic modeling, positron emission tomography, and radiation dosimetry, contributing to advancements in medical imaging and health diagnostics.",
+    "link_to_bio": [
+        "https://www.musc.edu"
+    ]
+}

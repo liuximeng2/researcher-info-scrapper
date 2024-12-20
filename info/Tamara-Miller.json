@@ -1,0 +1,15 @@
+{
+    "first_name": "Tamara",
+    "last_name": "Miller",
+    "emory_email": "tamara.miller@emory.edu",
+    "title": "Associate Professor",
+    "school": "Emory University School of Medicine",
+    "department": "Department of Pediatrics",
+    "research_focus": [
+        "Human Health"
+    ],
+    "research_focus_description": "Dr. Tamara Miller focuses on improving reporting systems for adverse events in pediatric cancer therapies and enhancing supportive care research for clinical trials in children with cancer.",
+    "link_to_bio": [
+        "Emory Winship Cancer Institute"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "first_name": "Ashley",
+    "last_name": "Naimi",
+    "emory_email": "ashley.naimi@emory.edu",
+    "title": "Associate Professor",
+    "school": "Rollins School of Public Health",
+    "department": "Epidemiology",
+    "research_focus": [
+        "Human Health",
+        "Foundations of AI"
+    ],
+    "research_focus_description": "Ashley Naimi focuses on causal inference, machine learning, and artificial intelligence methods to address questions in reproductive, perinatal, and nutritional epidemiology, with an emphasis on social determinants of health and health disparities.",
+    "link_to_bio": [
+        "https://ainaimi.github.io"
+    ]
+}

@@ -6,11 +6,9 @@
     "school": "Rollins School of Public Health",
     "department": "Biostatistics and Bioinformatics",
     "research_focus": [
-        "Machine learning in causal inference",
-        "vaccine statistics"
+        "Human Health",
+        "Foundations of AI"
     ],
-    "research_focus_description": "David Benkeser's research focuses on the theory and applications of machine learning in causal inference, particularly in areas such as vaccine statistics, competing risks, and complex longitudinal data. His collaborative research includes work on preventive vaccines, tuberculosis, and HIV prevention.",
-    "link_to_bio": [
-        "Return to Faculty Listing"
-    ]
+    "research_focus_description": "David Benkeser's methodological research concentrates on the theory and applications of machine learning in causal inference, focusing on vaccine statistics, infectious diseases like HIV and tuberculosis, and robust nonparametric statistical inference.",
+    "link_to_bio": []
 }

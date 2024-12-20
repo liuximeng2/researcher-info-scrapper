@@ -1,0 +1,16 @@
+{
+    "first_name": "Miguel",
+    "last_name": "Rueda",
+    "emory_email": "miguel.rueda@emory.edu",
+    "title": "Associate Professor",
+    "school": "Emory University",
+    "department": "Political Science",
+    "research_focus": [
+        "Human Health",
+        "Arts and Humanities"
+    ],
+    "research_focus_description": "Miguel R. Rueda's research interests include electoral manipulation, civil conflict, money in politics, and political methodology.",
+    "link_to_bio": [
+        "Miguel Rueda's Website"
+    ]
+}

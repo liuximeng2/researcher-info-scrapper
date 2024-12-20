@@ -1,0 +1,13 @@
+{
+    "first_name": "David",
+    "last_name": "Hirshberg",
+    "emory_email": "davidahirshberg@emory.edu",
+    "title": "Assistant Professor",
+    "school": "Emory University",
+    "department": "Quantitative Theory & Methods Department",
+    "research_focus": [
+        "Foundations of AI"
+    ],
+    "research_focus_description": "David Hirshberg focuses on methods for estimating causal effects from observational studies and experiments, contributing to the development of R packages such as synthdid and grf. His work involves creating stable and efficient covariate-balancing estimators for causal analysis.",
+    "link_to_bio": []
+}

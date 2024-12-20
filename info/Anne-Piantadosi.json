@@ -1,0 +1,15 @@
+{
+    "first_name": "Anne",
+    "last_name": "Piantadosi",
+    "emory_email": "anne.piantadosi@emory.edu",
+    "title": "Assistant Professor",
+    "school": "Emory University School of Medicine",
+    "department": "Department of Pathology and Laboratory Medicine",
+    "research_focus": [
+        "Human Health"
+    ],
+    "research_focus_description": "Dr. Anne Piantadosi focuses on the emergence, evolution, and pathogenesis of clinically and publicly important viruses, with a special interest in arboviruses, using clinical, laboratory, and computational methods.",
+    "link_to_bio": [
+        "Piantadosi Lab"
+    ]
+}

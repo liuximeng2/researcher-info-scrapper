@@ -6,11 +6,11 @@
     "school": "Emory University",
     "department": "Department of Psychology",
     "research_focus": [
-        "Functional organization of human visual cortex",
-        "Cortical plasticity in adult human vision"
+        "Human Health",
+        "Foundations of AI"
     ],
-    "research_focus_description": "His research focuses on how the visual cortex is functionally organized, how this organization develops, and how it changes in adulthood. He utilizes methods like psychophysics, fMRI, and transcranial magnetic stimulation.",
+    "research_focus_description": "Daniel D. Dilks' research investigates the functional organization of human visual cortex, its development, and how it changes in adulthood using methods like psychophysics, fMRI, and TMS.",
     "link_to_bio": [
-        "dilkslab"
+        "https://psychology.emory.edu/home/people/biographies/dilks.html"
     ]
 }

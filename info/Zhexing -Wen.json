@@ -1,0 +1,14 @@
+{
+    "first_name": "Zhexing",
+    "last_name": "Wen",
+    "emory_email": "zhexing.wen@emory.edu",
+    "title": "Associate Professor",
+    "school": "Emory University",
+    "department": "Department of Psychiatry and Behavioral Sciences",
+    "research_focus": [
+        "Human Health",
+        "Foundations of AI"
+    ],
+    "research_focus_description": "Dr. Zhexing Wen's research primarily focuses on understanding neurological and psychiatric diseases using advanced techniques such as multi-omics, deep learning, and human induced pluripotent stem cells. His work also explores applications of AI in health for drug repurposing and diagnosis.",
+    "link_to_bio": []
+}

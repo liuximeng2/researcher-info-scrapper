@@ -1,0 +1,15 @@
+{
+    "first_name": "Jennifer",
+    "last_name": "Felger",
+    "emory_email": "jfelger@emory.edu",
+    "title": "Associate Professor",
+    "school": "Emory University School of Medicine",
+    "department": "Department of Psychiatry and Behavioral Sciences",
+    "research_focus": [
+        "Human Health"
+    ],
+    "research_focus_description": "Dr. Felger studies the effects of inflammatory cytokines on neurotransmitters and neural circuits, specifically exploring the role of dopamine in alterations in neurocircuitry associated with increased inflammation in patients with major depression.",
+    "link_to_bio": [
+        "https://winshipcancer.emory.edu/bios/faculty/felger-jennifer.html"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "first_name": "Stephen",
+    "last_name": "Traynelis",
+    "emory_email": "strayne@emory.edu",
+    "title": "Professor of Pharmacology and Chemical Biology",
+    "school": "School of Medicine",
+    "department": "Department of Pharmacology",
+    "research_focus": [
+        "Human Health"
+    ],
+    "research_focus_description": "Stephen Traynelis's research focuses on understanding the function of neuronal circuits, synapses, and synaptic receptors using electrophysiology techniques. He explores the modulation of glutamate receptors and the impact of human mutations on these receptors to address both healthy and disease states of neural function.",
+    "link_to_bio": [
+        "This appears to be the homepage of the Traynelis Lab, which can be considered as the bio link."
+    ]
+}

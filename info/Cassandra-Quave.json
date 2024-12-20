@@ -1,0 +1,15 @@
+{
+    "first_name": "Cassandra",
+    "last_name": "Quave",
+    "emory_email": "cassandra.leah.quave@emory.edu",
+    "title": "Assistant Professor of Dermatology and Human Health; Curator of the Herbarium",
+    "school": "Emory University",
+    "department": "Center for the Study of Human Health; School of Medicine",
+    "research_focus": [
+        "Human Health"
+    ],
+    "research_focus_description": "Dr. Quave's research focuses on drug discovery from natural products to improve treatments for multidrug-resistant bacterial infections, utilizing an ethnobotanical approach to identify novel anti-infectives.",
+    "link_to_bio": [
+        "The Quave Research Group"
+    ]
+}

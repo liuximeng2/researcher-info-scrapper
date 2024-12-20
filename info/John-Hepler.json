@@ -1,0 +1,11 @@
+{
+    "first_name": "John",
+    "last_name": "Hepler",
+    "emory_email": "jhepler@emory.edu",
+    "title": "Professor and Vice Chair for Academic Affairs",
+    "school": "Emory University School of Medicine",
+    "department": "Department of Pharmacology and Chemical Biology",
+    "research_focus": ["Human Health"],
+    "research_focus_description": "Dr. Hepler's research focuses on understanding intracellular communication, particularly how receptors, G proteins, and RGS proteins regulate cell and organ physiology. His work has implications for cognitive functions, learning and memory, and neurodegenerative diseases.",
+    "link_to_bio": "https://med.emory.edu/departments/pharmacology-chemical-biology/labs/hepler/index.html"
+  }

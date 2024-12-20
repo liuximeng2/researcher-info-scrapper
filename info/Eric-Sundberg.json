@@ -1,0 +1,15 @@
+{
+    "first_name": "Eric",
+    "last_name": "Sundberg",
+    "emory_email": "eric.sundberg@emory.edu",
+    "title": "Professor and Chair",
+    "school": "Emory University School of Medicine",
+    "department": "Department of Biochemistry",
+    "research_focus": [
+        "Human Health"
+    ],
+    "research_focus_description": "Dr. Sundberg's research focuses on structural biology, molecular biophysics, and protein engineering to understand infectious diseases and create novel protein therapeutics.",
+    "link_to_bio": [
+        "N/A"
+    ]
+}

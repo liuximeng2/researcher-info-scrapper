@@ -1,0 +1,15 @@
+{
+    "first_name": "Thomas",
+    "last_name": "Wichmann",
+    "emory_email": "twichma@emory.edu",
+    "title": "A. Worley Brown Professor of Neurology",
+    "school": "Emory University School of Medicine",
+    "department": "Movement Disorder Division, Department of Neurology",
+    "research_focus": [
+        "Human Health"
+    ],
+    "research_focus_description": "Dr. Thomas Wichmann's research focuses on developing more effective and safer interventions for Parkinson's disease and other movement disorders by studying brain activity changes and the effects of deep brain stimulation.",
+    "link_to_bio": [
+        "https://www.example.com/bio/thomas-wichmann"
+    ]
+}

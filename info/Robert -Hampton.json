@@ -1,0 +1,15 @@
+{
+    "first_name": "Robert",
+    "last_name": "Hampton",
+    "emory_email": "robert.hampton@emory.edu",
+    "title": "Samuel Candler Dobbs Professor of Psychology",
+    "school": "Emory University",
+    "department": "Department of Psychology",
+    "research_focus": [
+        "Human Health"
+    ],
+    "research_focus_description": "Dr. Hampton's research focuses on the comparative psychology of nonhuman primates and birds, specifically looking at the neurobiology of learning, memory, and metacognition. His laboratory uses computerized tests to study cognition in both laboratory and natural settings.",
+    "link_to_bio": [
+        "https://www.psychology.emory.edu/people/faculty/bios.html"
+    ]
+}

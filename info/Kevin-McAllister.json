@@ -1,0 +1,15 @@
+{
+    "first_name": "Kevin",
+    "last_name": "McAlister",
+    "emory_email": "kevin.mcalister@emory.edu",
+    "title": "Assistant Teaching Professor",
+    "school": "Emory University",
+    "department": "Department of Quantitative Theory and Methods",
+    "research_focus": [
+        "Foundations of AI"
+    ],
+    "research_focus_description": "Kevin McAlister's research focuses on political methodology, statistical modeling, and legislative behavior, utilizing Bayesian Statistics and Machine Learning to explore American political institutions.",
+    "link_to_bio": [
+        "Emory University's Faculty Bios page for Kevin McAlister"
+    ]
+}

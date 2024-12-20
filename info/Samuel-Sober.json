@@ -1,0 +1,15 @@
+{
+    "first_name": "Sam",
+    "last_name": "Sober",
+    "emory_email": "samuel.j.sober@emory.edu",
+    "title": "Associate Professor",
+    "school": "Emory University",
+    "department": "Department of Biology",
+    "research_focus": [
+        "Human Health"
+    ],
+    "research_focus_description": "The research investigates how neural circuits drive vocal output and are modified by sensorimotor experience using songbird vocal control systems.",
+    "link_to_bio": [
+        "The Sober Lab"
+    ]
+}

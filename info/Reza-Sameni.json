@@ -1,0 +1,14 @@
+{
+    "first_name": "Reza",
+    "last_name": "Sameni",
+    "emory_email": "reza.sameni@emory.edu",
+    "title": "Associate Professor",
+    "school": "Emory University School of Medicine",
+    "department": "Department of Biomedical Informatics",
+    "research_focus": [
+        "Human Health",
+        "AI Ethics"
+    ],
+    "research_focus_description": "Reza Sameni focuses on developing advanced signal processing techniques for biomedical applications, particularly in the fields of cardiology and neurology, and exploring the use of artificial intelligence in improving healthcare outcomes.",
+    "link_to_bio": []
+}

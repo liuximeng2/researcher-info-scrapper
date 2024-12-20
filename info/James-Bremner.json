@@ -4,13 +4,12 @@
     "emory_email": "doug.bremner@emory.edu",
     "title": "Professor",
     "school": "Emory University School of Medicine",
-    "department": "Department of Psychiatry and Behavioral Sciences",
+    "department": "Psychiatry & Behavioral Sciences",
     "research_focus": [
-        "PTSD",
-        "depression",
-        "stress",
-        "cardiovascular disease"
+        "Human Health"
     ],
-    "research_focus_description": "Dr. Bremner is focused on PTSD, depression, stress and cardiovascular disease, neuromodulation, and the application of brain and cardiac imaging to study stress-related conditions.",
-    "link_to_bio": []
+    "research_focus_description": "Douglas Bremner's research focuses on PTSD, depression, stress, cardiovascular disease, and the application of brain and cardiac imaging to study stress-related conditions.",
+    "link_to_bio": [
+        "link_to_bio_not_provided"
+    ]
 }

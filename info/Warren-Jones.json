@@ -1,0 +1,13 @@
+{
+    "first_name": "Warren",
+    "last_name": "Jones",
+    "emory_email": "warren.r.jones@emory.edu",
+    "title": "Associate Professor",
+    "school": "Emory University School of Medicine",
+    "department": "Department of Pediatrics",
+    "research_focus": [
+        "Human Health"
+    ],
+    "research_focus_description": "My research explores autism through developing performance-based measures of social engagement, used as diagnostic markers and indicators of outcomes for understanding genetic, neural, and behavioral mechanisms in autism spectrum disorders.",
+    "link_to_bio": []
+}

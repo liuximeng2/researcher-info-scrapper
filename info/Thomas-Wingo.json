@@ -1,0 +1,13 @@
+{
+    "first_name": "Thomas",
+    "last_name": "Wingo",
+    "emory_email": "thomas.wingo@emory.edu",
+    "title": "Associate Professor",
+    "school": "Emory University",
+    "department": "Neurology and Human Genetics",
+    "research_focus": [
+        "Human Health"
+    ],
+    "research_focus_description": "Thomas Wingo's research focuses on identifying the genetic causes of neurodegenerative diseases, such as Alzheimer's disease (AD), Frontotemporal dementia (FTD), and Amyotrophic Lateral Sclerosis (ALS), particularly exploring the genetic architecture and potential Mendelian causes of these diseases.",
+    "link_to_bio": []
+}

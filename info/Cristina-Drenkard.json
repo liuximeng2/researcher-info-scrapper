@@ -2,19 +2,12 @@
     "first_name": "Cristina",
     "last_name": "Drenkard",
     "emory_email": "cdrenka@emory.edu",
-    "title": "Associate Professor, Division of Rheumatology, Emory School of Medicine; Assistant Professor of Epidemiology, Rollins School of Public Health, Emory University",
-    "school": "Emory School of Medicine; Rollins School of Public Health, Emory University",
+    "title": "Associate Professor, Division of Rheumatology",
+    "school": "Emory School of Medicine",
     "department": "Department of Medicine",
     "research_focus": [
-        "Lupus health disparities with emphasis on patient-centered outcomes and behavioral interventions research",
-        "Cutaneous lupus in white-black populations",
-        "Impact of psychosocial factors on patient-centered outcomes",
-        "Cost-effective self-management interventions",
-        "Patient-provider-health system interactions and lupus care",
-        "Lupus patient education in minorities"
+        "Human Health"
     ],
-    "research_focus_description": "Dr. Drenkard's research is focused on understanding the burden and health-related inequities in SLE, particularly among ethnic minorities who suffer from this disease, through epidemiological studies and patient-centered intervention research.",
-    "link_to_bio": [
-        "Not explicitly provided; please check the Emory University's Division of Rheumatology website for more information."
-    ]
+    "research_focus_description": "Dr. Drenkard's research is focused on understanding health disparities in lupus, with an emphasis on patient-centered outcomes and behavioral interventions. Her work involves understanding the impact of psychosocial factors on patient outcomes, developing cost-effective self-management interventions, and improving lupus care, particularly among ethnic minorities.",
+    "link_to_bio": []
 }

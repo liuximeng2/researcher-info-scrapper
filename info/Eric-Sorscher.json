@@ -1,0 +1,15 @@
+{
+    "first_name": "Eric",
+    "last_name": "Sorscher",
+    "emory_email": "esorscher@emory.edu",
+    "title": "Professor",
+    "school": "Emory University School of Medicine",
+    "department": "Department of Pediatrics, Division of Pulmonary, Allergy/Immunology, Cystic Fibrosis and Sleep",
+    "research_focus": [
+        "Human Health"
+    ],
+    "research_focus_description": "Dr. Sorscher focuses on cystic fibrosis related science, studying molecular pathogenesis and translational research concerning cancer and cystic fibrosis.",
+    "link_to_bio": [
+        "Emory University School of Medicine Faculty Profile"
+    ]
+}

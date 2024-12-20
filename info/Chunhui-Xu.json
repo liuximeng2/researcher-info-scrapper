@@ -1,0 +1,15 @@
+{
+    "first_name": "Chunhui",
+    "last_name": "Xu",
+    "emory_email": "chunhui.xu@emory.edu",
+    "title": "Professor",
+    "school": "Emory University School of Medicine",
+    "department": "Department of Pediatrics",
+    "research_focus": [
+        "Human Health"
+    ],
+    "research_focus_description": "Dr. Xu's research focuses on human cardiomyocytes derived from human pluripotent stem cells, with applications in cardiac cell therapy, disease modeling, and drug discovery.",
+    "link_to_bio": [
+        "https://winshipcancer.emory.edu/bios/faculty/chunhui-xu"
+    ]
+}

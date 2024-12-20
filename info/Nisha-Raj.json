@@ -1,0 +1,13 @@
+{
+    "first_name": "Nisha",
+    "last_name": "Raj",
+    "emory_email": "nraj2@emory.edu",
+    "title": "Assistant Professor",
+    "school": "Emory University School of Medicine",
+    "department": "Department of Human Genetics",
+    "research_focus": [
+        "Human Health"
+    ],
+    "research_focus_description": "Nisha Raj focuses on the genetic and molecular mechanisms underlying neurological disorders, including fragile X syndrome and schizophrenia, using cross-species analysis and human cellular models to explore mitochondrial dysregulation and PI3K-dependent defects.",
+    "link_to_bio": []
+}

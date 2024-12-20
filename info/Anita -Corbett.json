@@ -1,18 +1,13 @@
 {
-    "first_name": "Unavailable",
+    "first_name": "Dr.",
     "last_name": "Corbett",
-    "emory_email": "Unavailable",
-    "title": "Professor",
+    "emory_email": "",
+    "title": "",
     "school": "Emory University",
     "department": "Department of Biology",
     "research_focus": [
-        "Evolutionarily-conserved RNA binding proteins",
-        "Gene expression",
-        "Neuronal dysfunction",
-        "Muscular dystrophy"
+        "Human Health"
     ],
-    "research_focus_description": "Research in the Corbett lab primarily focuses on determining the function of evolutionarily-conserved RNA binding proteins, exploring their role in gene expression and their link to tissue-specific diseases such as neuronal dysfunction and muscular dystrophy. Various model systems and methodologies such as genetics, biochemistry, and structural biology are utilized.",
-    "link_to_bio": [
-        "Unavailable"
-    ]
+    "research_focus_description": "Research focuses on understanding the function of RNA binding proteins and their link to tissue-specific diseases, such as neuronal dysfunction and muscular dystrophy, using genetic model systems and various biological approaches.",
+    "link_to_bio": []
 }

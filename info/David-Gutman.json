@@ -1,0 +1,17 @@
+{
+    "first_name": "David",
+    "last_name": "Gutman",
+    "emory_email": "dgutman@emory.edu",
+    "title": "Associate Professor",
+    "school": "Emory University School of Medicine",
+    "department": "Department of Biomedical Informatics",
+    "research_focus": [
+        "Human Health",
+        "AI Ethics"
+    ],
+    "research_focus_description": "Dr. Gutman's research involves using digital imaging technologies, particularly in digital pathology and radiology imaging, to answer neuroscientific questions and to correlate imaging with genetic and clinical data, with a focus on glioma patients. He is also interested in using imaging techniques like DTI and MRI to explore neural circuitry.",
+    "link_to_bio": [
+        "Emory University School of Medicine Faculty Profile",
+        "Gutman Lab"
+    ]
+}

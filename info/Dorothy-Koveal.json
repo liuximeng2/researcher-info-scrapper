@@ -1,0 +1,14 @@
+{
+    "first_name": "Dorothy",
+    "last_name": "Koveal",
+    "emory_email": "",
+    "title": "Instructor",
+    "school": "Emory University and Georgia Tech",
+    "department": "Department of Biomedical Engineering",
+    "research_focus": [
+        "Human Health",
+        "Foundations of AI"
+    ],
+    "research_focus_description": "Dorothy Koveal's research focuses on fluorescent biosensor development, protein engineering and structure, fluorescence imaging, microfluidics, and high-throughput screening.",
+    "link_to_bio": []
+}

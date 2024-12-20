@@ -2,16 +2,16 @@
     "first_name": "Gregory",
     "last_name": "Berns",
     "emory_email": "gberns@emory.edu",
-    "title": "Professor of Psychology and Distinguished Professor of Neuroeconomics",
+    "title": "Professor of Psychology, Distinguished Professor of Neuroeconomics, Director, Center for Neuropolicy, Director, Facility for Education and Research in Neuroscience (FERN)",
     "school": "Emory University",
     "department": "Department of Psychology",
     "research_focus": [
-        "Neuroimaging of decision-making",
-        "canine cognitive function",
-        "comparative neurobiology"
+        "Human Health",
+        "Business Enterprise"
     ],
-    "research_focus_description": "Dr. Berns' research focuses on using fMRI to study decision-making and cognitive function in both humans and animals, including dogs. He aims to map perceptual and decision systems in the dog's brain and explore white matter pathways in various mammals. His work extends to understanding decision-making processes related to individual preferences, commercial success predictions in neuromarketing, and impacts of 'sacred values' on the brain linked to terrorism.",
+    "research_focus_description": "Dr. Berns' research focuses on the neuroimaging of human decision making and canine cognitive function using awake fMRI. His work aims to map the perceptual and decision systems in both humans and dogs and explore the neurobiology underlying decision making and preferences.",
     "link_to_bio": [
-        "Biography on Emory Website"
+        "neuropolicy.emory.edu",
+        "fern.emory.edu"
     ]
 }

@@ -7,6 +7,6 @@ Your task to to filter out the below contents from the scraped texts:
     title: researcher's title
     school: research's school of affiliation
     department: researcher's department of affiliation
-    research_focus: summarize the research focus in a few words
+    research_focus: map to one or more of the following, Business Enterprise, Human Health, Arts and Humanities, AI Ethics, Foundations of AI
     research_focus_description: summatize the researcher's research focus in one to two sentences
     link_to_bio: potential link to the researcher's bio

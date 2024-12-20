@@ -1,0 +1,13 @@
+{
+    "first_name": "James",
+    "last_name": "Nagy",
+    "emory_email": "nagy@math.emory.edu",
+    "title": "Samuel Candler Dobbs Professor, Mathematics Department Chair",
+    "school": "Emory University",
+    "department": "Department of Mathematics",
+    "research_focus": [
+        "Foundations of AI"
+    ],
+    "research_focus_description": "James G. Nagy's research interests include numerical linear algebra, scientific computation, and numerical solutions to discrete ill-posed problems in signal and image processing, focusing on computational mathematics.",
+    "link_to_bio": []
+}

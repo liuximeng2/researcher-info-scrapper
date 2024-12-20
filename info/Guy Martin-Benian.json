@@ -6,10 +6,10 @@
     "school": "Emory University School of Medicine",
     "department": "Department of Pathology and Laboratory Medicine",
     "research_focus": [
-        "Myofibril assembly",
-        "maintenance",
-        "giant multi-domain proteins"
+        "Human Health"
     ],
-    "research_focus_description": "Focuses on the functions and structures of giant multi-domain proteins and the mechanisms by which myofibrils are attached to the muscle cell membrane in Caenorhabditis elegans, transmitting force.",
-    "link_to_bio": []
+    "research_focus_description": "Guy Benian focuses on myofibril assembly and maintenance in Caenorhabditis elegans, studying the functions and structures of giant multi-domain proteins and the mechanisms by which they transmit force in muscle cells.",
+    "link_to_bio": [
+        "Not provided"
+    ]
 }

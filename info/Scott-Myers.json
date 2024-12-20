@@ -1,0 +1,13 @@
+{
+    "first_name": "Scott",
+    "last_name": "Myers",
+    "emory_email": "scott.james.myers@emory.edu",
+    "title": "Instructor",
+    "school": "Emory University",
+    "department": "Department of Pharmacology & Chemical Biology",
+    "research_focus": [
+        "Human Health"
+    ],
+    "research_focus_description": "Scott Myers' research is focused on understanding the molecular mechanisms and pharmacological modulation of NMDA receptors and their role in neurological diseases.",
+    "link_to_bio": []
+}

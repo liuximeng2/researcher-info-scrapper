@@ -6,10 +6,10 @@
     "school": "Emory University School of Medicine",
     "department": "Department of Medicine, Division of Endocrinology, Metabolism and Lipids",
     "research_focus": [
-        "Dietary inorganic phosphate",
-        "bone disease",
-        "nanoparticles"
+        "Human Health"
     ],
-    "research_focus_description": "Dr. Beck focuses on understanding the role of dietary inorganic phosphate in regulating cell behavior, exploring the biological actions and targeting of nanoparticles for bone disease applications, and examining the impact of diabetes on marrow stem cells and bone quality.",
-    "link_to_bio": []
+    "research_focus_description": "Dr. Beck's research focuses on the effects of Thiazolidinediones on bone quality in diabetic subjects, the role of inorganic phosphate in cancer and bone diseases, and the cellular targeting of nanoparticles for medical applications related to bone disease.",
+    "link_to_bio": [
+        "N/A"
+    ]
 }
